@@ -37,7 +37,7 @@ Install Arduino-IRremote from **Arduino IDE → Library Manager**.
 ---
 
 ## Wiring
-
+![Diagram](docs/images/diagram.png)
 ### Recommended (best range)
 ESP32 GPIO pins cannot drive an IR LED at high current for good range. For best results, drive the IR LED with a transistor.
 
